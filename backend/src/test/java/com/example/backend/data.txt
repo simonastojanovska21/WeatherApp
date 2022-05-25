@@ -1,0 +1,325 @@
+{
+lat: 41.9981,
+lon: 21.4254,
+timezone: "Europe/Skopje",
+timezone_offset: 7200,
+daily: [
+{
+dt: 1653472800,
+sunrise: 1653447941,
+sunset: 1653501424,
+moonrise: 1653439680,
+moonset: 1653483420,
+moon_phase: 0.84,
+temp: {
+day: 26.16,
+min: 14.82,
+max: 31.59,
+night: 19.92,
+eve: 30.13,
+morn: 18.02
+},
+feels_like: {
+day: 26.16,
+night: 19.77,
+eve: 30.93,
+morn: 17.97
+},
+pressure: 1016,
+humidity: 51,
+dew_point: 15.24,
+wind_speed: 2.6,
+wind_deg: 122,
+wind_gust: 3.73,
+weather: [
+{
+id: 801,
+main: "Clouds",
+description: "few clouds",
+icon: "02d"
+}
+],
+clouds: 18,
+pop: 0.18,
+uvi: 8.37
+},
+{
+dt: 1653559200,
+sunrise: 1653534300,
+sunset: 1653587878,
+moonrise: 1653527400,
+moonset: 1653573720,
+moon_phase: 0.87,
+temp: {
+day: 29.15,
+min: 16.39,
+max: 31.32,
+night: 19.23,
+eve: 29.52,
+morn: 17.33
+},
+feels_like: {
+day: 28.76,
+night: 19.22,
+eve: 29.83,
+morn: 17.05
+},
+pressure: 1020,
+humidity: 40,
+dew_point: 13.48,
+wind_speed: 2.46,
+wind_deg: 46,
+wind_gust: 3.4,
+weather: [
+{
+id: 802,
+main: "Clouds",
+description: "scattered clouds",
+icon: "03d"
+}
+],
+clouds: 32,
+pop: 0.18,
+uvi: 8.27
+},
+{
+dt: 1653645600,
+sunrise: 1653620661,
+sunset: 1653674331,
+moonrise: 1653615060,
+moonset: 1653663960,
+moon_phase: 0.9,
+temp: {
+day: 28.76,
+min: 16.72,
+max: 30.99,
+night: 17.54,
+eve: 30.23,
+morn: 17.82
+},
+feels_like: {
+day: 28.92,
+night: 17.75,
+eve: 30.62,
+morn: 17.75
+},
+pressure: 1018,
+humidity: 46,
+dew_point: 15.33,
+wind_speed: 2.7,
+wind_deg: 171,
+wind_gust: 5.29,
+weather: [
+{
+id: 502,
+main: "Rain",
+description: "heavy intensity rain",
+icon: "10d"
+}
+],
+clouds: 40,
+pop: 1,
+rain: 22.04,
+uvi: 8.72
+},
+{
+dt: 1653732000,
+sunrise: 1653707024,
+sunset: 1653760783,
+moonrise: 1653702840,
+moonset: 1653754260,
+moon_phase: 0.94,
+temp: {
+day: 24.87,
+min: 14.85,
+max: 28.21,
+night: 14.85,
+eve: 27.25,
+morn: 16.19
+},
+feels_like: {
+day: 24.95,
+night: 14.74,
+eve: 28.01,
+morn: 16.21
+},
+pressure: 1012,
+humidity: 59,
+dew_point: 15.39,
+wind_speed: 2.3,
+wind_deg: 334,
+wind_gust: 3.05,
+weather: [
+{
+id: 501,
+main: "Rain",
+description: "moderate rain",
+icon: "10d"
+}
+],
+clouds: 100,
+pop: 0.86,
+rain: 10.08,
+uvi: 7.99
+},
+{
+dt: 1653818400,
+sunrise: 1653793389,
+sunset: 1653847233,
+moonrise: 1653790740,
+moonset: 1653844500,
+moon_phase: 0.97,
+temp: {
+day: 18.27,
+min: 12.15,
+max: 22.02,
+night: 15.71,
+eve: 20.87,
+morn: 12.15
+},
+feels_like: {
+day: 17.93,
+night: 15.84,
+eve: 20.97,
+morn: 11.59
+},
+pressure: 1013,
+humidity: 68,
+dew_point: 11.31,
+wind_speed: 2.51,
+wind_deg: 110,
+wind_gust: 2.92,
+weather: [
+{
+id: 502,
+main: "Rain",
+description: "heavy intensity rain",
+icon: "10d"
+}
+],
+clouds: 75,
+pop: 1,
+rain: 26.74,
+uvi: 6.89
+},
+{
+dt: 1653904800,
+sunrise: 1653879755,
+sunset: 1653933683,
+moonrise: 1653878940,
+moonset: 1653934680,
+moon_phase: 0,
+temp: {
+day: 22.33,
+min: 14.66,
+max: 25.2,
+night: 15.29,
+eve: 24.09,
+morn: 14.66
+},
+feels_like: {
+day: 22.24,
+night: 15.2,
+eve: 24.2,
+morn: 14.61
+},
+pressure: 1009,
+humidity: 62,
+dew_point: 13.92,
+wind_speed: 2.12,
+wind_deg: 26,
+wind_gust: 4.42,
+weather: [
+{
+id: 500,
+main: "Rain",
+description: "light rain",
+icon: "10d"
+}
+],
+clouds: 28,
+pop: 0.83,
+rain: 5.15,
+uvi: 7
+},
+{
+dt: 1653991200,
+sunrise: 1653966124,
+sunset: 1654020131,
+moonrise: 1653967440,
+moonset: 1654024680,
+moon_phase: 0.03,
+temp: {
+day: 22.74,
+min: 12.94,
+max: 26.69,
+night: 18.55,
+eve: 26.69,
+morn: 12.94
+},
+feels_like: {
+day: 22.66,
+night: 18.44,
+eve: 27.13,
+morn: 12.61
+},
+pressure: 1014,
+humidity: 61,
+dew_point: 13.98,
+wind_speed: 2.33,
+wind_deg: 91,
+wind_gust: 2.25,
+weather: [
+{
+id: 500,
+main: "Rain",
+description: "light rain",
+icon: "10d"
+}
+],
+clouds: 3,
+pop: 0.46,
+rain: 0.49,
+uvi: 7
+},
+{
+dt: 1654077600,
+sunrise: 1654052494,
+sunset: 1654106579,
+moonrise: 1654056360,
+moonset: 1654114380,
+moon_phase: 0.06,
+temp: {
+day: 26.04,
+min: 15.82,
+max: 28.89,
+night: 20.34,
+eve: 28.7,
+morn: 15.82
+},
+feels_like: {
+day: 26.04,
+night: 20.36,
+eve: 28.96,
+morn: 15.49
+},
+pressure: 1019,
+humidity: 54,
+dew_point: 15.28,
+wind_speed: 2.01,
+wind_deg: 276,
+wind_gust: 1.99,
+weather: [
+{
+id: 800,
+main: "Clear",
+description: "clear sky",
+icon: "01d"
+}
+],
+clouds: 9,
+pop: 0,
+uvi: 7
+}
+]
+}
